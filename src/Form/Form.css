@@ -1,0 +1,15 @@
+.searchForm{
+  display: flex;
+  position: relative;
+  align-items: stretch;
+  width: 100%;
+}
+.searchBar{
+  position: relative;
+  flex: 1 1 auto;
+  width: 3%;
+  margin-bottom: 0;
+  padding: .375rem .73rem;
+  font-size: 1rem;
+  line-height: 1.5;
+}
