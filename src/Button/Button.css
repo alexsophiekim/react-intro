@@ -15,13 +15,13 @@ button:hover{
   color: red;
 }
 .redBtn:hover{
-  background-color: brown;
-  border-color: brown;
+  background-color: #ff9aa2;
+  border-color: #ff9aa2;
 }
 .blueBtn{
-  color: blue;
+  color: Blue;
 }
 .blueBtn:hover{
-  background-color: navy;
-  border-color: navy;
+  background-color: #6eb5ff;
+  border-color: #6eb5ff;
 }
